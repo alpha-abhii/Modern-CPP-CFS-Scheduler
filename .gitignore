@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+
+# VS Code specific settings
+.vscode/
+
+# Python virtual environment
+/.venv
+
+# Generated output files
+process_schedule.csv
+process_schedule_dark.png

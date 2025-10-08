@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.hpp": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "stdexcept": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
